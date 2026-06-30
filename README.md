@@ -74,4 +74,8 @@ I will continue updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0112-path-sum) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
