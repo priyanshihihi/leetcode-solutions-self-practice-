@@ -78,4 +78,13 @@ I will continue updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0058-length-of-last-word) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Hash Table
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
