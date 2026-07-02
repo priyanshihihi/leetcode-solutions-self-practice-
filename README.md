@@ -125,4 +125,8 @@ I will continue updating this repository as I solve more problems.
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
