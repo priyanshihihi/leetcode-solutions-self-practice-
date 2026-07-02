@@ -70,6 +70,7 @@ I will continue updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0112-path-sum) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -104,4 +105,24 @@ I will continue updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
