@@ -87,4 +87,12 @@ I will continue updating this repository as I solve more problems.
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
