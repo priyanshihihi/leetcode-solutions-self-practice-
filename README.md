@@ -108,6 +108,7 @@ I will continue updating this repository as I solve more problems.
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -120,6 +121,7 @@ I will continue updating this repository as I solve more problems.
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -129,4 +131,8 @@ I will continue updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0007-reverse-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
