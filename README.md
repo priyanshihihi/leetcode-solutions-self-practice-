@@ -153,4 +153,8 @@ I will continue updating this repository as I solve more problems.
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1288-remove-covered-intervals) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
