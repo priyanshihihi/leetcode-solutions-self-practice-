@@ -158,4 +158,5 @@ I will continue updating this repository as I solve more problems.
 | ------- |
 | [0175-combine-two-tables](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0182-duplicate-emails) |
+| [0183-customers-who-never-order](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
