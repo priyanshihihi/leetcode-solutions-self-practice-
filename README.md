@@ -113,6 +113,7 @@ I will continue updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0014-longest-common-prefix) |
+| [1288-remove-covered-intervals](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -148,4 +149,8 @@ I will continue updating this repository as I solve more problems.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
