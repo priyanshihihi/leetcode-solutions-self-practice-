@@ -165,4 +165,5 @@ If you find this repository helpful, feel free to star it!
 | [0577-employee-bonus](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0585-investments-in-2016) |
+| [0620-not-boring-movies](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
