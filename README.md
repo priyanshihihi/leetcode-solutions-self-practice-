@@ -1,15 +1,15 @@
-# LeetCode Solutions 🚀
+# LeetCode Solutions 
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to LeetCode problems that I solve as part of my Data Structures and Algorithms (DSA) practice.
 
-## 📌 About
+## About
 
-- 💻 Language: **Java**
-- 🎯 Goal: Improve problem-solving skills and prepare for coding interviews.
-- 📚 Solutions are organized by LeetCode problem number.
-- 🔄 Repository is updated regularly with new solutions.
+- Language: **Java**
+- Goal: Improve problem-solving skills and prepare for coding interviews.
+- Solutions are organized by LeetCode problem number.
+- Repository is updated regularly with new solutions.
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 leetcode-solutions-self-practice/
@@ -24,15 +24,15 @@ Each folder contains:
 - `Solution.java` – Java solution
 - `README.md` – Problem description, approach, and complexity
 
-## 📈 Progress
+## Progress
 
-- ✅ Easy
-- 🔄 Medium
-- ⏳ Hard
+- Easy
+- Medium
+- Hard
 
 I will continue updating this repository as I solve more problems.
 
-## 🛠️ Topics Covered
+## Topics Covered
 
 - Arrays
 - Strings
@@ -49,12 +49,12 @@ I will continue updating this repository as I solve more problems.
 - Greedy
 - And more...
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - **GitHub:** https://github.com/priyanshihihi
 
 
-⭐ If you find this repository helpful, feel free to star it!
+If you find this repository helpful, feel free to star it!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
