@@ -137,6 +137,7 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0007-reverse-integer) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
