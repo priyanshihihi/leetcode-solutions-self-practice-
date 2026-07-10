@@ -169,6 +169,7 @@ If you find this repository helpful, feel free to star it!
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0601-human-traffic-of-stadium) |
 | [0620-not-boring-movies](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
