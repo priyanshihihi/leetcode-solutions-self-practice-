@@ -105,6 +105,7 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0031-next-permutation) |
 ## String Matching
 |  |
 | ------- |
@@ -113,6 +114,7 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0031-next-permutation) |
 | [1288-remove-covered-intervals](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
