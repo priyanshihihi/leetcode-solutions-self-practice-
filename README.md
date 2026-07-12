@@ -81,6 +81,7 @@ If you find this repository helpful, feel free to star it!
 | [0008-string-to-integer-atoi](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0058-length-of-last-word) |
@@ -144,6 +145,7 @@ If you find this repository helpful, feel free to star it!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0032-longest-valid-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
 ## Trie
@@ -154,6 +156,7 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0022-generate-parentheses) |
 ## Sorting
 |  |
 | ------- |
