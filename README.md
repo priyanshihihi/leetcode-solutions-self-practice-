@@ -186,6 +186,7 @@ If you find this repository helpful, feel free to star it!
 | [0620-not-boring-movies](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Stack
 |  |
 | ------- |
