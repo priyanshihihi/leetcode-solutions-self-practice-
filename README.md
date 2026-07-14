@@ -187,6 +187,7 @@ If you find this repository helpful, feel free to star it!
 | [0626-exchange-seats](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1068-product-sales-analysis-i) |
 ## Stack
 |  |
 | ------- |
