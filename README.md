@@ -194,6 +194,7 @@ If you find this repository helpful, feel free to star it!
 | [1070-product-sales-analysis-iii](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1084-sales-analysis-iii) |
+| [1174-immediate-food-delivery-ii](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1174-immediate-food-delivery-ii) |
 ## Stack
 |  |
 | ------- |
