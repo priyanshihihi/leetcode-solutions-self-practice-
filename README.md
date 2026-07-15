@@ -161,6 +161,7 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0022-generate-parentheses) |
+| [0401-binary-watch](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
 | ------- |
@@ -213,4 +214,5 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
