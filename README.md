@@ -143,6 +143,7 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0007-reverse-integer](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0007-reverse-integer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -203,4 +204,5 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
