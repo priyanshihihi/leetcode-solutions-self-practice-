@@ -85,6 +85,7 @@ If you find this repository helpful, feel free to star it!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0058-length-of-last-word) |
+| [0696-count-binary-substrings](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0696-count-binary-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0031-next-permutation) |
+| [0696-count-binary-substrings](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0696-count-binary-substrings) |
 ## String Matching
 |  |
 | ------- |
