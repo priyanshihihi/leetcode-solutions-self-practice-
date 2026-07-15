@@ -205,4 +205,12 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
