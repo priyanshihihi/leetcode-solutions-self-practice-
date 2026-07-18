@@ -79,6 +79,7 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0022-generate-parentheses) |
@@ -103,6 +104,7 @@ If you find this repository helpful, feel free to star it!
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
@@ -150,6 +152,7 @@ If you find this repository helpful, feel free to star it!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0032-longest-valid-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
