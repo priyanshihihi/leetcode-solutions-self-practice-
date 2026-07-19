@@ -102,11 +102,13 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0024-swap-nodes-in-pairs) |
 ## Two Pointers
 |  |
 | ------- |
