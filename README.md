@@ -100,6 +100,7 @@ If you find this repository helpful, feel free to star it!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
@@ -111,6 +112,7 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0031-next-permutation) |
 | [0696-count-binary-substrings](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0696-count-binary-substrings) |
