@@ -116,6 +116,7 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -130,6 +131,7 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0031-next-permutation) |
 | [1288-remove-covered-intervals](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1288-remove-covered-intervals) |
@@ -182,6 +184,7 @@ If you find this repository helpful, feel free to star it!
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0018-4sum) |
 | [1288-remove-covered-intervals](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1288-remove-covered-intervals) |
 ## Database
