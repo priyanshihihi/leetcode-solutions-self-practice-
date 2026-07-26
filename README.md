@@ -134,6 +134,7 @@ If you find this repository helpful, feel free to star it!
 | [0016-3sum-closest](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0045-jump-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -169,6 +170,7 @@ If you find this repository helpful, feel free to star it!
 | [0010-regular-expression-matching](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0045-jump-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Trie
@@ -248,4 +250,5 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
