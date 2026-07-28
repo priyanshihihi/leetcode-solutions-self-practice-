@@ -137,6 +137,7 @@ If you find this repository helpful, feel free to star it!
 | [0031-next-permutation](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0055-jump-game) |
 | [1288-remove-covered-intervals](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
@@ -187,6 +188,7 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
