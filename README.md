@@ -86,6 +86,7 @@ If you find this repository helpful, feel free to star it!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0058-length-of-last-word) |
 | [0696-count-binary-substrings](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0696-count-binary-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -165,6 +166,7 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0007-reverse-integer](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0043-multiply-strings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -264,4 +266,8 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
