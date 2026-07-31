@@ -139,6 +139,7 @@ If you find this repository helpful, feel free to star it!
 | [0042-trapping-rain-water](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0055-jump-game) |
 | [1288-remove-covered-intervals](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
@@ -178,6 +179,7 @@ If you find this repository helpful, feel free to star it!
 | [0032-longest-valid-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0055-jump-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -249,6 +251,7 @@ If you find this repository helpful, feel free to star it!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
