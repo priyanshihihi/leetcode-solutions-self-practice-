@@ -88,6 +88,7 @@ If you find this repository helpful, feel free to star it!
 | [0032-longest-valid-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0091-decode-ways) |
 | [0696-count-binary-substrings](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0696-count-binary-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Hash Table
@@ -183,6 +184,7 @@ If you find this repository helpful, feel free to star it!
 | [0053-maximum-subarray](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0091-decode-ways) |
 | [1301-number-of-paths-with-max-score](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Trie
