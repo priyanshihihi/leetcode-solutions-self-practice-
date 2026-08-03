@@ -107,6 +107,7 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
@@ -153,6 +154,7 @@ If you find this repository helpful, feel free to star it!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0023-merge-k-sorted-lists) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -255,6 +257,7 @@ If you find this repository helpful, feel free to star it!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
@@ -281,4 +284,12 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0062-unique-paths) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
