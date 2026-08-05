@@ -140,6 +140,7 @@ If you find this repository helpful, feel free to star it!
 | [0016-3sum-closest](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0046-permutations) |
@@ -200,6 +201,7 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/priyanshihihi/leetcode-solutions-self-practice-/tree/master/0401-binary-watch) |
 ## Sorting
